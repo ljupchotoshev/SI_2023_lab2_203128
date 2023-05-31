@@ -1,6 +1,6 @@
 # Ljupcho Toshev 203128
 # Control Flow Graph
-![cfg](https://github.com/ljupchotoshev/SI_2023_lab2_203128/assets/98028371/534da630-15a0-4d25-84f6-3445f3b47f65)
+![cfg](https://github.com/ljupchotoshev/SI_2023_lab2_203128/assets/98028371/6ba61152-9265-4443-89ce-51e61ebac8a1)
 
 [код](https://i.imgur.com/COPeolp.png)
 # Цикломатска комплексност
